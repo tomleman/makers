@@ -1,4 +1,0 @@
-makers
-======
-
-Makers Academy
