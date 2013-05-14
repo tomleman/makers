@@ -1,1 +1,1 @@
-puts "benchmarks"
+print "benchmarks"
